@@ -1,0 +1,7 @@
+Yemekhane Tedarik Zinciri Optimizasyon Raporu
+
+Üniversite yemekhanesinde günlük gıda malzemesi tedarik sürecinde yaşanan aksaklıklar, stok maliyetlerini artırmakta ve israfa yol açmaktadır. Sistem analizi çalışmaları, talebin doğru tahmin edilememesi nedeniyle özellikle taze sebze ve et ürünlerinde tedarik fazlası oluştuğunu göstermektedir.
+
+Bu problemi çözmek amacıyla doğrusal programlama modelleri kullanılarak yeni bir stok yönetim sistemi önerilmektedir. Önerilen sistem, öğrenci sayısındaki günlük dalgalanmaları hesaba katarak sipariş miktarlarını optimize etmeyi hedefler.
+
+Yeni modelin uygulanması durumunda, aylık gıda israfında %15 oranında azalma ve genel tedarik maliyetlerinde %10'luk bir tasarruf öngörülmektedir. Böylece yemekhane operasyonları daha sürdürülebilir ve verimli bir yapıya kavuşacaktır.
